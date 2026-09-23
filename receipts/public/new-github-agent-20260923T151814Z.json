@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:24:51.357458+00:00",
+  "agent": "GromitIndex",
+  "slug": "gromitindex",
+  "did": "did:key:z6MkiA9fKVoYPiTC2doTXvniTW171krr7SysNTXtMeND9Ar2",
+  "relay_profile": "account-102",
+  "github_repo": "https://github.com/cricksstash4/flop-gromitindex",
+  "github_login": "cricksstash4",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-af",
+    "key": "838c48ac45757c",
+    "status": 200,
+    "value_sha256": "d864318178a251b448ad36b413f8b6a9831d84d4a3ab5df5e169c6165ac1726c"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/gromitindex/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
